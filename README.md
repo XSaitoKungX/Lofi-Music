@@ -33,5 +33,5 @@ If you're not using repl.it to host your code 24/7, follow these steps as well
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Grizz1e/HimalV2)
 
-Made with ❤️ from [XSaitoKungX](https://github.com/XSaitoKungX)
+## Made with ❤️ from [XSaitoKungX](https://github.com/XSaitoKungX)
 ## Code from [Grizz1e](https://github.com/Grizz1e)
